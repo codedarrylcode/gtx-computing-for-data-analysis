@@ -1,4 +1,4 @@
-# Introduction to Analytics Modeling
+# Computing for Data Analysis
 *GTx - CSE6040x*
 
 A repository containing self-documentation and code from Georgia Tech's MicroMasters Program in [Analytics: Essential Tools and Methods](https://www.edx.org/micromasters/gtx-analytics-essential-tools-and-methods)
